@@ -1,8 +1,8 @@
 videojsXBlock-Pro
 =========
 
-## Description
 This XBlock provides the Video.js player (www.videojs.com) instead of the default one.
+Thanks MarCnu(https://github.com/MarCnu/videojsXBlock).I'm deeply appreciate him for his previous effors. 
 
 ## Features:
   1.Keep track of users activities in edX-platform tracking log
@@ -51,5 +51,4 @@ This XBlock provides the Video.js player (www.videojs.com) instead of the defaul
   >Go to Settings -> Advanced Settings and set advanced_modules to ["videojs"].
 
 ## Suggestions:
-  Keep the user "edxapp" clear of the privilege "sudo", you ought to switch user to "edustack" if you need the superior 
-  authority.
+  Keep the user "edxapp" clear of the privilege "sudo", you ought to switch the current user to "edustack" if you need the superior authority.
