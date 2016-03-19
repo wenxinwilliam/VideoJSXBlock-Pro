@@ -3,7 +3,7 @@ videojsXBlock-Pro
 
 This XBlock provides the Video.js player (www.videojs.com) instead of the default one.
 
-Thanks MarCnu( https://github.com/MarCnu/videojsXBlock ). I'm deeply appreciate him for his previous effors. 
+Thanks MarCnu( https://github.com/MarCnu/videojsXBlock ). I'm deeply appreciate him for his previous efforts. 
 
 ## Features:
 1.Keep track of users activities in edX-platform tracking log
