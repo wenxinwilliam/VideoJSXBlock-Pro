@@ -1,5 +1,6 @@
 videojsXBlock-Pro
 =========
+Video.js 4.12.11
 
 This XBlock provides the Video.js player (www.videojs.com) instead of the default one.
 
