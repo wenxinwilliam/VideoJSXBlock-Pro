@@ -1,0 +1,3 @@
+[xblock.v1]
+videojs_pro = videojs_pro:VideojsProXBlock
+
