@@ -27,7 +27,7 @@ function videojsXBlockInitStudio(runtime, element) {
             if (response.result === 'success') {
                 runtime.notify('save', {state: 'end'});
                 // Reload the whole page :
-                window.location.reload(false);
+                //window.location.reload(false);
             } else {
                 runtime.notify('error', {msg: response.message})
             }
