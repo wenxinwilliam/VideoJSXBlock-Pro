@@ -40,7 +40,7 @@ Thanks MarCnu( https://github.com/MarCnu/videojsXBlock ). I'm deeply appreciate 
   * Install
   
   >pip install -e ./VideoJSXBlock-Pro
-  * Bach to the user "edustack"
+  * Back to the user "edustack"
   
   >exit
     
